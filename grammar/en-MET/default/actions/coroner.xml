@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>coroner</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>coroner</string>
+        <string>C S I</string>
+		<string>Scene Of Crimes Officer</string>
+		<string>SOCO</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Coroner</Target>
+</Action>

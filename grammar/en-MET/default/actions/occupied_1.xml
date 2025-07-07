@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_1</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>occupied one times</string>
+        <string>occupied two times</string>
+        <string>occupied three times</string>
+		<string>one up</string>
+        <string>two up</string>
+        <string>three up</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>1</Value>
+        </Parameter>
+    </Parameters>
+</Action>

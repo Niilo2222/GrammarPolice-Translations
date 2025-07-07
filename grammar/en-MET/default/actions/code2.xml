@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code2</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>code two</string>
+        <string>code two backup</string>
+        <string>two</string>
+		<string>s grade backup</string>
+		<string>s grade assistance</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code2</Target>
+</Action>
