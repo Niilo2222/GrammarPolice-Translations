@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_clear</Name>
+    <Action>traffic_control_clear</Action>
+    <Phrases>
+        <string>clear all traffic</string>
+        <string>clear traffic</string>
+        <string>clear traffic control</string>
+		<string>clear eleven eighty four</string>
+    </Phrases>
+</Command>

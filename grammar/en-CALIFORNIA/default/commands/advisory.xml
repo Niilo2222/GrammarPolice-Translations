@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advisory</Name>
+    <Phrases>
+        <string>I have</string>
+        <string>I have the</string>
+        <string>I have a</string>
+        <string>I have an</string>
+        <string>I have one</string>
+        <string>I have two</string>
+        <string>I have three</string>
+        <string>I have four</string>
+        <string>we have</string>
+        <string>we have the</string>
+        <string>we have a</string>
+        <string>we have an</string>
+        <string>we have one</string>
+        <string>we have two</string>
+        <string>we have three</string>
+        <string>we have four</string>
+        <string>suspect is</string>
+        <string>civilian is</string>
+    </Phrases>
+</Command>
