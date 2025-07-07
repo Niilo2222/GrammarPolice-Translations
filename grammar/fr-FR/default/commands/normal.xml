@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>normal</Name>
+    <Action>normal</Action>
+    <Phrases>
+        <string>situation normale</string>
+        <string>je suis correct</string>
+        <string>j'suis correct</string>
+        <string>tous va bien</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>investigating</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>enquête en cours</string>
+    	<string>en cours de recherche</string>
+    	<string>en cours d'investigation</string>
+    	<string>en train d'explorer</string>
+        <string>en train d'enquêter</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Investigating</Target>
+</Action>

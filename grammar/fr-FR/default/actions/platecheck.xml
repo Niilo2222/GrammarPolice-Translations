@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>platecheck</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+                    <string>identification de plaque</string>
+                    <string>vérification d'une plaque</string>
+                    <string>plaque vérification</string>
+                    <string>véhicule identification</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Computer.Platecheck</Target>
+</Action>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advisory</Name>
+    <Phrases>
+        <string>J'ai</string>
+        <string>J'ai le</string>
+        <string>J'ai un</string>
+        <string>J'ai une</string>
+        <string>J'ai du</string>
+        <string>J'ai des</string>
+        <string>J'ai deux</string>
+        <string>J'ai trois</string>
+        <string>J'ai quatre</string>
+
+        <string>on n'a</string>
+        <string>on n'a des</string>
+        <string>on n'a du</string>
+        <string>on n'a un</string>
+        <string>on n'a une</string>
+        <string>on n'a deux</string>
+        <string>on n'a trois</string>
+        <string>on n'a quatre</string>
+      
+        <string>suspect est</string>
+        <string>civil est</string>
+    </Phrases>
+</Command>

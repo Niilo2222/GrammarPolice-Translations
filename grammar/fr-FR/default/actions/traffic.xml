@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>traffic</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+				    <string>sur un arrêt de circulation</string>
+                    <string>sur un contrôle routier</string>
+                    <string>arrêt routier</string>
+                    <string>en arrêt</string>
+                    <string>contrôle routier</string>
+                    <string>arrêt d'un véhicule</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+</Action>

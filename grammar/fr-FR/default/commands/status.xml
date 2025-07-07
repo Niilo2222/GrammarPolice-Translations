@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>status</Name>
+    <Phrases>
+		    <string>aller</string>
+            <string>je vais</string>
+            <string>j'y vais</string>
+            <string>je suis</string>
+            <string>je vais aller</string>
+            <string>montre moi</string>
+            <string>montre nous</string>
+            <string>dix</string>
+            <string>nous somme</string>
+            <string>nous allons</string>
+    </Phrases>
+</Command>

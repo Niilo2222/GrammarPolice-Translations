@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>accept</Name>
+    <Action>accept</Action>
+    <Phrases>
+	    <string>en route</string>
+		<string>je vais voir sur place</string>
+        <string>je vais aller</string>
+        <string>en chemin</string>
+        <string>je suis en route </string>
+        <string>je vais repondre</string>
+        <string>montre moi en route</string>
+        <string>je prend l'appel</string>
+		<string>répond</string>
+        <string>j'y vais</string>
+    </Phrases>
+</Command>

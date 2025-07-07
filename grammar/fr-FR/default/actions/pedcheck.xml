@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>pedcheck</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+				    <string>vérification d'itentié</string>
+                    <string>contrôle des piétons</string>
+                    <string>identification personelle</string>
+                    <string>vérification personnelle</string>
+                    <string>verification d'une pièce d'identité</string>
+                    <string>identification</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Computer.Pedcheck</Target>
+</Action>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>traffic_control_clear</Name>
+    <Action>traffic_control_clear</Action>
+    <Phrases>
+        <string>claire toute circulation</string>
+        <string>claire la circulation</string>
+        <string>claire le contrôle de circulation</string>
+    </Phrases>
+</Command>

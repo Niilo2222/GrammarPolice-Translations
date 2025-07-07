@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>request</Name>
+    <Phrases>
+        <string>je peut avoir</string>
+        <string>code</string>
+        <string>j'ai besoin</string>
+        <string>j'ai besoin d'un</string>
+        <string>j'ai besoin d'une</string>
+        <string>j'ai besoin de</string>
+        <string>j'ai besoin des</string>
+        <string>j'ai besoin du</string>
+        <string>je demanderais un</string>
+        <string>je demanderais une</string>
+        <string>je demanderais du</string>
+        <string>je demande</string>
+        <string>envoie moi</string>
+        <string>envoie moi du</string>
+        <string>envoie moi les</string>
+        <string>envoie moi un</string>
+        <string>envoie moi une</string>
+        <string>envoie moi la</string>
+        <string>envoie</string>
+        <string>on a besoin d'un</string>
+        <string>on a besoin des</string>
+        <string>on a besoin d'une</string>
+        <string>j'aurais besoin d'un</string>
+        <string>j'aurais besoin d'une</string>
+        <string>je pourrais avoir un</string>
+        <string>je pourrais avoir une</string>
+        <string>je pourrais avoir la</string>
+        <string>je pourrais avoir les</string>
+    </Phrases>
+</Command>

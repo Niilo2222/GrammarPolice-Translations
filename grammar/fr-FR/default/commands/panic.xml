@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>panic</Name>
+    <Action>panic</Action>
+    <Phrases>
+		<string>code quatre vingt dix neuf</string>
+        <string>once quatre vingt dix neuf</string>
+        <string>coup de feu</string>
+		<string>coups de feu tirés</string>
+    </Phrases>
+</Command>

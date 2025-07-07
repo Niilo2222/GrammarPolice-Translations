@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>officerdown</Name>
+    <Action>officerdown</Action>
+    <Phrases>
+        <string>officier à terre</string>
+        <string>homme à terre</string>
+        <string>officier touché</string>
+    </Phrases>
+</Command>

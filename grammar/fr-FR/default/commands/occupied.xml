@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>occupied</Name>
+    <Phrases>
+      <string>nous avons un quatre porte</string>
+	    <string>nous avons un deux porte</string>
+	    <string>nous avons une berline</string>
+	    <string>nous avons un model sport</string>
+	    <string>nous avons un quatre roue</string>
+	    <string>nous avons une voiturette de golf</string>
+	    <string>nous avons une motocyclette</string>
+	    <string>nous avons une bicyclette</string>
+        <string>j'ai un quatre porte</string>
+        <string>j'ai un deux porte</string>
+        <string>j'ai une berline</string>
+        <string>j'ai un model sport</string>
+        <string>j'ai un quatre roue</string>
+        <string>j'ai une voiturette de golf</string>
+        <string>j'ai une motocyclette</string>
+        <string>j'ai une bicyclette</string>
+        <string>ça va être un quatre porte</string>
+        <string>ça va être un deux porte</string>
+        <string>ça va être une berline</string>
+        <string>ça va être un model sport</string>
+        <string>ça va être un quatre roue</string>
+        <string>ça va être une voiturette de golf</string>
+        <string>ça va être une motocyclette</string>
+        <string>ça va être une bicyclette</string>
+    </Phrases>
+</Command>
