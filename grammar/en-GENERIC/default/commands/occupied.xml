@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>occupied</Name>
+    <Phrases>
+      <string>we have a four door</string>
+	    <string>we have a two door</string>
+	    <string>we have a sedan</string>
+	    <string>we have a coupe</string>
+	    <string>we have a quad bike</string>
+	    <string>we have a golf cart</string>
+	    <string>we have a motorcycle</string>
+	    <string>we have a bike</string>
+        <string>i have a four door</string>
+        <string>i have a two door</string>
+        <string>i have a sedan</string>
+        <string>i have a coupe</string>
+        <string>i have a quad bike</string>
+        <string>i have a golf cart</string>
+        <string>i have a motorcycle</string>
+        <string>i have a bike</string>
+        <string>its going to be a four door</string>
+        <string>its going to be a two door</string>
+        <string>its going to be a sedan</string>
+        <string>its going to be a coup</string>
+        <string>its going to be a quad bike</string>
+        <string>its going to be a golf cart</string>
+        <string>its going to be a motorcycle</string>
+        <string>its going to be a bike</string>
+    </Phrases>
+</Command>
