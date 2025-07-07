@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>request</Name>
+    <Phrases>
+        <string>puedo tener un</string>
+        <string>puedo tener una</string>
+        <string>puedo tener</string>
+        <string>código</string>
+        <string>necesito</string>
+        <string>necesito un</string>
+        <string>necesito una</string>
+        <string>necesito algunas</string>
+        <string>solicito</string>
+        <string>solicitando</string>
+        <string>enviame</string>
+        <string>mandame</string>
+        <string>necesitamos</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>transport</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>transporte para prisionero</string>
+        <string>transporte para prisioneros</string>
+        <string>transporte</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Transport</Target>
+</Action>

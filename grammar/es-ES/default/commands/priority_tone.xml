@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>priority_tone</Name>
+    <Action>priority_tone</Action>
+    <Phrases>
+        <string>señal cien</string>
+        <string>limpiar señal cien</string>
+        <string>cancelar señal cien</string>
+    </Phrases>
+</Command>

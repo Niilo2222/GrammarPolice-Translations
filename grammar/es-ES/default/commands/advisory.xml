@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>advisory</Name>
+    <Phrases>
+        <string>tengo</string>
+        <string>tengo el</string>
+        <string>tengo un</string>
+        <string>tengo una</string>
+        <string>tengo a uno</string>
+        <string>tengo a dos</string>
+        <string>tengo a tres</string>
+        <string>tengo a cuatro</string>
+
+        <string>tenemos</string>
+        <string>tenemos al</string>
+        <string>tenemos un</string>
+        <string>tenemos a uno</string>
+        <string>tenemos a dos</string>
+        <string>tenemos a tres</string>
+        <string>tenemos a cuatro</string>
+        
+        <string>sospechoso esta</string>
+        <string>civil esta</string>
+    </Phrases>
+</Command>

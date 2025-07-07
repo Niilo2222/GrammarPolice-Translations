@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>occupied</Name>
+    <Phrases>
+      <string>tenemos un cuatro puertas</string>
+	    <string>tenemos un dos puertas</string>
+	    <string>tenemos un sedan</string>
+	    <string>tenemos un cupé</string>
+	    <string>tenemos una cuatrimoto</string>
+	    <string>tenemos un carro de golf</string>
+	    <string>tenemos una motocicleta</string>
+	    <string>tenemos una bicicleta</string>
+      <string>tengo un cuatro puertas</string>
+      <string>tengo un dos puertas</string>
+      <string>tengo un sedan</string>
+      <string>tengo un cupé</string>
+      <string>tengo una cuatrimoto</string>
+      <string>tengo un carro de golf</string>
+      <string>tengo una motocicleta</string>
+      <string>tengo una bicicleta</string>
+      <string>va a ser un cuatro puertas</string>
+      <string>va a ser un dos puertas</string>
+      <string>va a ser un sedan</string>
+      <string>va a ser un cupé</string>
+      <string>va a ser una cuatrimoto</string>
+      <string>va a ser un carro de golf</string>
+      <string>va a ser una motocicleta</string>
+      <string>va a ser una bicicleta</string>
+    </Phrases>
+</Command>

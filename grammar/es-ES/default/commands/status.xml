@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>status</Name>
+    <Phrases>
+        <string>yendo</string>
+        <string>de camino</string>
+        <string>estoy</string>
+        <string>estoy de camino</string>
+        <string>muestrame</string>
+        <string>muestranos</string>
+        <string>diez</string>
+        <string>estamos</string>
+        <string>estamos de camino</string>
+    </Phrases>
+</Command>

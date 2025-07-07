@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>available</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>disponible</string>
+        <string>diez ocho</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Available</Target>
+</Action>
