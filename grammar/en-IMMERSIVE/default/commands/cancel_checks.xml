@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>cancel_checks</Name>
+    <Action>cancel_checks</Action>
+    <Phrases>
+        <string>cancel</string>
+        <string>situation normal cancel</string>
+		<string>I'm o k cancel checks</string>
+		<string>I'm okay cancel checks</string>
+		<string>I'm fine cancel checks</string>
+		<string>I'm good cancel checks</string>
+		<string>we are o k cancel checks</string>
+		<string>we are okay cancel checks</string>
+		<string>we are fine cancel checks</string>
+		<string>we are good cancel checks</string>
+		<string>cancel checks</string>
+		</Phrases>
+</Command>

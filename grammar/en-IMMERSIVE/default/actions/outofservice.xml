@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>outofservice</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>ten seven</string>
+        <string>out of service</string>
+		<string>ten forty two</string>
+		<string>forty two</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.OutOfService</Target>
+</Action>

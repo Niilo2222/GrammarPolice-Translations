@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>fire</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>fire</string>
+        <string>fire and rescue</string>
+        <string>fire department</string>
+		<string>ten fifty three</string>
+        <string>fire backup</string>
+		<string>fire truck</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Fire</Target>
+</Action>

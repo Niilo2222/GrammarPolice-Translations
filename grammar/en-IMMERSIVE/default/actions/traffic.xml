@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>traffic</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>on a traffic stop</string>
+        <string>on a stop</string>
+		<string>on a ten eleven</string>
+		<string>eleven</string>
+		<string>performing a traffic stop</string>
+		<string>performing a ten eleven</string>
+		<string>stopping a vehicle</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+</Action>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>occupied_2</Name>   
+    <Commands>
+        <string>occupied</string>
+    </Commands>
+    <Phrases>
+        <string>occupied one times no additional</string>
+        <string>occupied two times no additional</string>
+        <string>occupied three times no additional</string>
+        <string>occupied one times no backup</string>
+        <string>occupied two times no backup</string>
+        <string>occupied three times no backup</string>
+		<string>occupied one times no thirty two</string>
+        <string>occupied two times no thirty two</string>
+        <string>occupied three times no thirty two</string>
+        <string>occupied one times no ten thirty two</string>
+        <string>occupied two times no ten thirty two</string>
+        <string>occupied three times no ten thirty two</string>
+    </Phrases>	
+    <Target>GrammarPolice.Actions.Status.TrafficStop</Target>
+    <Parameters>
+        <Parameter>
+            <Type>System.Int32</Type>
+            <Value>2</Value>
+        </Parameter>
+    </Parameters>
+</Action>

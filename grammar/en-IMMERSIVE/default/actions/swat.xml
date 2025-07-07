@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>swat</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>swat unit</string>
+        <string>tactical unit</string>
+		<string>ten thirty two SWAT</string>
+		<string>ten thirty two SWAT unit</string>
+		<string>SWAT backup</string>
+		<string>SWAT unit backup</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Swat</Target>
+</Action>
