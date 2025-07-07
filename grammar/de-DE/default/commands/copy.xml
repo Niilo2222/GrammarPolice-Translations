@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>copy</Name>
+    <Action>copy</Action>
+    <Phrases>
+        <string>so verstanden</string>
+        <string>so zehn vier</string>
+        <string>ten four</string>
+        <string>verstanden</string>
+    </Phrases>
+</Command>

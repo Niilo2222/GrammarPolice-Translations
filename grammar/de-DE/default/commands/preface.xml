@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>preface</Name>
+    <Action>preface</Action>
+    <Phrases>
+        <string>verstanden</string>
+        <string>verstanden einsatzzentrale</string>
+        <string>verstanden zentrale</string>
+        <string>verstanden leitstelle</string>
+        <string>habe verstanden</string>
+        <string>habe verstanden zentrale</string>
+        <string>habe verstanden einsatzzentrale</string>
+        <string>habe verstanden leitstelle</string>
+        <string>einsatzzentrale</string>
+        <string>zentrale</string>
+        <string>leitstelle</string>
+    </Phrases>
+</Command>

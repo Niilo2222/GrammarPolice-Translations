@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>occupied</Name>
+    <Phrases>
+	<string>Wir haben eine viertürige</string>
+	<string>Wir haben einen viertürigen</string>
+	<string>Wir haben eine zweitürige</string>
+	<string>Wir haben einen zweitürigen</string>
+	<string>Wir haben eine Limousine</string>
+	<string>Wir haben ein coupe</string>
+	<string>Wir haben ein quad</string>
+	<string>Wir haben ein golf cart</string>
+	<string>Wir haben ein Motorrad</string>
+	<string>Wir haben ein Fahrrad</string>
+
+        <string>Ich habe eine viertürige</string>
+	<string>Ich habe einen viertürigen</string>
+        <string>Ich habe eine zweitürige</string>
+	<string>Ich habe einen zweitürigen</string>
+        <string>Ich habe eine Limousine</string>
+        <string>Ich habe ein coupe</string>
+        <string>Ich habe ein quad</string>
+	<string>Ich habe ein golf cart</string>
+	<string>Ich habe ein Motorrad</string>
+	<string>Ich habe ein Fahrrad</string>
+		
+        <string>Es ist ein viertürer</string>
+        <string>Es ist ein zweitürer</string>
+        <string>Es ist eine Limousine</string>
+        <string>Es ist ein coupe</string>
+        <string>Es ist ein quad</string>
+        <string>Es ist ein golf cart</string> 
+        <string>Es ist ein Motorrad</string>
+        <string>Es ist ein Fahrrad</string>
+    </Phrases>
+</Command>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>code3</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+                    <string>zusätzliche unterstützung</string>
+                    <string>zusätzliche einheiten</string>
+                    <string>unterstützung</string>
+                    <string>code drei</string>
+                    <string>code drei unterstützung</string>
+                    <string>drei</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.Code3</Target>
+</Action>

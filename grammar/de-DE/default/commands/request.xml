@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>request</Name>
+    <Phrases>
+            <string>ich brauche</string>
+            <string>ich brauche ein</string>
+            <string>ich brauche eine</string>
+            <string>brauche</string>
+            <string>brauche ein</string>
+            <string>brauche eine</string>
+            <string>ich fordere</string>
+            <string>ich fordere ein</string>
+            <string>ich fordere eine</string>
+            <string>fordere</string>
+            <string>fordere ein</string>
+            <string>fordere eine</string>
+            <string>schicke</string>
+            <string>schicke mir</string>
+            <string>schicke mir ein</string>
+            <string>schicke mir eine</string>
+            <string>wir brauchen</string>
+            <string>wir brauchen ein</string>
+            <string>wir brauchen eine</string>
+    </Phrases>
+</Command>

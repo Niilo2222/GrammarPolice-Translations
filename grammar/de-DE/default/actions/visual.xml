@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>visual</Name>
+    <Commands>
+        <string>advisory</string>
+    </Commands>
+    <Phrases>
+        <string>gesichtet</string>
+        <string>verdächtiger gesichtet</string>
+		<string>verdächtige gesichtet</string>
+        <string>verdächtiger in sicht</string>
+		<string>verdächtige in sicht</string>
+        <string>in sicht</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Advisory.Visual</Target>
+</Action>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>startpatrol</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+                    <string>auf patrouille</string>
+                    <string>starte meine patrouille</string>
+                    <string>starte meine schicht</string>
+                    <string>starte patrouille</string>
+                    <string>starte schicht</string>
+                    <string>beginn meiner patrouille</string>
+                    <string>beginn meiner schicht</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.StartPatrol</Target>
+</Action>

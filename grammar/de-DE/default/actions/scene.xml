@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>scene</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+                    <string>vor ort</string>
+                    <string>am ziel</string>
+                    <string>am einsatzort</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Scene</Target>
+</Action>

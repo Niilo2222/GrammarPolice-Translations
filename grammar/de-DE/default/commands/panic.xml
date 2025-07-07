@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>panic</Name>
+    <Action>panic</Action>
+    <Phrases>
+        <string>schüsse gefallen</string>
+        <string>es sind schüsse gefallen</string>
+        <string>es wird geschossen</string>
+        <string>es gibt eine schiesserei</string>
+    </Phrases>
+</Command>

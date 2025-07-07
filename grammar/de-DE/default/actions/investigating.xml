@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>investigating</Name>
+    <Commands>
+        <string>status</string>
+    </Commands>
+    <Phrases>
+        <string>etwas untersuchen</string>
+        <string>was untersuchen</string>
+        <string>uns das mal näher anschauen</string>
+        <string>mir das mal näher anschauen</string>
+        <string>uns das mal anschauen</string>
+        <string>mir das mal anschauen</string>
+        <string>uns etwas näher anschauen</string>
+        <string>mir etwas näher anschauen</string>
+        <string>uns etwas anschauen</string>
+        <string>mir etwas anschauen</string>
+		<string>ermitteln</string>
+		<string>überprüfen</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Status.Investigating</Target>
+</Action>

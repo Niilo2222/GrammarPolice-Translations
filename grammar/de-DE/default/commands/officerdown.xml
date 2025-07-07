@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>officerdown</Name>
+    <Action>officerdown</Action>
+    <Phrases>
+        <string>Polizist am boden</string>
+        <string>Polizistin am boden</string>
+        <string>polizist angeschossen</string>
+        <string>polizistin angeschossen</string>
+        <string>Mann am boden</string>
+        <string>Polizist verletzt</string>
+        <string>Polizistin verletzt</string>
+    </Phrases>
+</Command>
