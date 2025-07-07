@@ -5,11 +5,11 @@ GrammarPolice uses the Microsoft Speech Platform, which allows GrammarPolice to 
 ℹ️ When GrammarPolice is updated, these files are included. Users can make a contribution to GrammarPolice to improve its language compatibility.<br><br>
 
 ## How to use your language with GrammarPolice:
-1. Install the Microsoft Speech Platform Runtime from here:https://www.microsoft.com/en-us/download/details.aspx?id=27225
- <br>Use the larger SpeechPlatformRuntime.msi file (2.6 MB) which supports x64.
+1. Install the Microsoft Speech Platform Runtime from here: https://www.microsoft.com/en-us/download/details.aspx?id=27225
+ <br>→ Use the larger SpeechPlatformRuntime.msi file (2.6 MB) which supports x64.
 
-2. Install the language you want to use from here:https://www.microsoft.com/en-us/download/details.aspx?id=27224
- <br>Make sure you install the MSSpeech_SR file for your language, not TTS.
+2. Install the language you want to use from here: https://www.microsoft.com/en-us/download/details.aspx?id=27224
+ <br>→ Make sure you install the MSSpeech_SR file for your language, not TTS.
 
 ## Want to contribute a translation?
 All contributions are appreciated. Please try to keep translations as accurate as possible, as they will be used by other people.
