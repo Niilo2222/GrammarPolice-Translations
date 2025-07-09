@@ -15,10 +15,11 @@ GrammarPolice uses the Microsoft Speech Platform, which allows GrammarPolice to 
 All contributions are appreciated. Please try to keep translations as accurate as possible, as they will be used by other people.
 
 If you are contributing to a new language, you will need to:
-1. Create a new folder to match your language code and follow the folder structure.
-2. Translate the files to your language in your new folder.
-3. Update the README file with a tick.
-4. **Submit a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for it to be added.**
+1. Create a new grammar folder to match your language code and follow the folder structure.
+2. Translate the XML files to your language in your new folder.  Only change the strings underneath PHRASES.  Do not change the names, commands, or targets.
+3. Create a new XML file in the interface folder matching your language.  Only change the menu and item NAMES.  Do not change the actions.
+4. Update the README file with a tick.
+5. **Submit a [Pull Request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-a-pull-request) for it to be added.**
 
 If you get stuck, visit the [IPT Support Server](https://discord.gg/AuJCUag). Thank you for supporting our plugins. 
 
