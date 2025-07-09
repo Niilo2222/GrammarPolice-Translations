@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface>
+    <menu name="Advisory">
+        <item name="Fight" action="fight" />
+        <item name="Person Deceased" action="person_deceased" />
+        <item name="Person Injured" action="person_injured" />
+        <item name="Suspect In Custody" action="suspect_custody" />
+        <item name="Suspect Lost" action="suspect_lost" />
+        <item name="Visual On Suspect" action="visual" />
+    </menu>
+    <menu name="Backup">
+       <item name="S Grade Backup" action="code2" />
+       <item name="I Grade Backup" action="code3" />
+       <item name="Hard Stop Backup" action="felonystopbackup" />
+       <item name="Female Officer" action="female" />
+       <item name="Riot Team" action="noose" />
+       <item name="Armed Response Unit" action="swat" />
+       <item name="Traffic Stop" action="trafficstopbackup" />
+    </menu>
+    <menu name="Interaction">
+       <item name="Affirmative" action="yes" />
+       <item name="Negative" action="no" />
+       <item name="Cancel Checks" action="cancel_checks" />
+       <item name="All In Order" action="normal" />
+    </menu>
+    <menu name="Pursuit">
+       <item name="~b~N PAS ~s~Air Support" action="air" />
+       <item name="TPAC Authority" action="pit" />
+       <item name="Roadblock" action="roadblock" />
+       <item name="Stinger" action="spikestrips" />
+    </menu>
+    <menu name="Request">
+       <item name="~b~RSPCA ~s~Animal Control" action="animal" />
+       <item name="~b~SOCO ~s~Scene Of Crimes Officer" action="coroner" />
+       <item name="EMS" action="ems" />
+       <item name="Fire" action="fire" />
+       <item name="Dog Unit" action="k9" />
+       <item name="P N C Check" action="pedcheck" />
+       <item name="Vehicle Check" action="platecheck" />
+       <item name="Comms Check" action="radiocheck" />
+       <item name="Ticket Number" action="ticketnumber" />
+       <item name="Recovery" action="tow" />
+       <item name="Transport" action="transport" />
+       <item name="Insurance" action="insurance" />
+       <item name="Vehicle" action="vehicle" />
+    </menu>
+    <menu name="Status">
+       <item name="~b~State 2 ~s~Available" action="available" />
+       <item name="~b~State 8 ~s~Busy" action="busy" />
+       <item name="Back State 2" action="code4" />
+       <item name="In Pursuit" action="pursuit" />
+       <item name="Investigating" action="investigating" />
+       <item name="~b~State 4 ~s~Meal Break" action="mealbreak" />
+       <item name="On Patrol" action="onpatrol" />
+       <item name="~b~State 11 ~s~Out Of Service" action="outofservice" />
+       <item name="Returning To Station" action="station" />
+       <item name="~b~State 6 ~s~On Scene" action="scene" />
+       <item name="Traffic Stop" action="traffic" />
+    </menu>
+    <menu name="Traffic">
+       <item name="Slow Traffic" action="traffic_control_slow" />
+       <item name="Stop Traffic" action="traffic_control_stop" />
+       <item name="Clear Traffic" action="traffic_control_clear" />
+    </menu>
+</interface>
