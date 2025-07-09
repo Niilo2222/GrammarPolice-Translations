@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<interface>
+    <menu name="État">
+        <item name="Combattre" action="fight" />
+        <item name="Décès" action="person_deceased" />
+        <item name="Individu Blessé" action="person_injured" />
+        <item name="Suspect Arrêté" action="suspect_custody" />
+        <item name="Suspect Perdu" action="suspect_lost" />
+        <item name="Suspect En Vue" action="visual" />
+    </menu>
+    <menu name="Renfort">
+       <item name="Code 2" action="code2" />
+       <item name="Code 3" action="code3" />
+       <item name="Contrôle Routier" action="felonystopbackup" />
+       <item name="Unité Féminine" action="female" />
+       <item name="NOOSE" action="noose" />
+       <item name="SWAT" action="swat" />
+       <item name="Contrôle Routier" action="trafficstopbackup" />
+    </menu>
+    <menu name="Interaction">
+       <item name="Affirmatif" action="yes" />
+       <item name="Négatif" action="no" />
+       <item name="Annuler Vérification" action="cancel_checks" />
+       <item name="Situation Normale" action="normal" />
+    </menu>
+    <menu name="Poursuite">
+       <item name="Support Aérien" action="air" />
+       <item name="Demande Pit" action="pit" />
+       <item name="Barrage Routier" action="roadblock" />
+       <item name="Herse" action="spikestrips" />
+    </menu>
+    <menu name="Support">
+       <item name="Contrôle Animalier" action="animal" />
+       <item name="Coroner" action="coroner" />
+       <item name="Unité Médicale" action="ems" />
+       <item name="Pompier" action="fire" />
+       <item name="Unité Canine" action="k9" />
+       <item name="Identification" action="pedcheck" />
+       <item name="Vérification De Plaque" action="platecheck" />
+       <item name="Vérification Radio" action="radiocheck" />
+       <item name="Numéro D'Amende" action="ticketnumber" />
+       <item name="Remorqueuse" action="tow" />
+       <item name="Transport" action="transport" />
+       <item name="Véhicule" action="vehicle" />
+    </menu>
+    <menu name="Statut">
+       <item name="Disponible" action="available" />
+       <item name="Occupé" action="busy" />
+       <item name="RAS" action="code4" />
+       <item name="En Poursuite" action="pursuit" />
+       <item name="En Investigation" action="investigating" />
+       <item name="Pause Café" action="mealbreak" />
+       <item name="En Patrouille" action="onpatrol" />
+       <item name="Fin De Service" action="outofservice" />
+       <item name="Retour Au Poste" action="station" />
+       <item name="Sur Intervention" action="scene" />
+       <item name="Contrôle Routier" action="traffic" />
+    </menu>
+    <menu name="Circulation">
+       <item name="Ralentir Trafic" action="traffic_control_slow" />
+       <item name="Arrêter Trafic" action="traffic_control_stop" />
+       <item name="Dégager La Voie" action="traffic_control_clear" />
+    </menu>
+</interface>
