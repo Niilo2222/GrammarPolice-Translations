@@ -29,10 +29,10 @@ If you get stuck, visit the [IPT Support Server](https://discord.gg/AuJCUag). Th
 | da-DK  | Danish (Denmark)                             | ❌     |
 | de-DE  | German (Germany)                             | ✅     |
 | en-AU  | English (Australia)                          | ✅     |
-| en-CA  | English (Canada)                             |  ❌     |
+| en-CA  | English (Canada)                             | ✅     |
 | en-GB  | English (United Kingdom)                     | ✅     |
-| en-IN  | English (India)                              |  ❌     |
-| en-US  | English (United States)                      | ❌     |
+| en-IN  | English (India)                              | ✅     |
+| en-US  | English (United States)                      | ✅     |
 | es-ES  | Spanish (Spain)                              | ✅     |
 | es-MX  | Spanish (Mexico)                             | ❌     |
 | fi-FI  | Finnish (Finland)                            | ❌     |
