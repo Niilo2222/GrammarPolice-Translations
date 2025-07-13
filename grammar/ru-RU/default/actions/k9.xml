@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Action>
+    <Name>k9</Name>
+    <Commands>
+        <string>request</string>
+    </Commands>
+    <Phrases>
+        <string>к 9</string>
+        <string>ка 9</string>
+        <string>к 9 юнит</string>
+        <string>ка 9 юнит</string>
+        <string>к девять</string>
+        <string>ка девять</string>
+        <string>к девять юнит</string>
+        <string>ка девять юнит</string>
+		<string>десять тридцать два ка девять</string>
+        <string>десять тридцать два к девять</string>
+		<string>десять тридцать два собачий юнит</string>
+		<string>подмогу к девять</string>
+        <string>подмога к девять</string>
+        <string>поддержку к девять</string>
+        <string>помощь к девять</string>
+        <string>подмогу ка девять</string>
+        <string>подмога ка девять</string>
+        <string>поддержку ка девять</string>
+        <string>помощь ка девять</string>
+        <string>подмогу собачьего юнита</string>
+        <string>подмога собачьего юнита</string>
+        <string>поддержка собачьего юнита</string>
+        <string>помощь собачьего юнита</string>
+        <string>собачий юнит</string>
+        <string>собака</string>
+        <string>собаку</string>
+    </Phrases>
+    <Target>GrammarPolice.Actions.Backup.K9</Target>
+</Action>
