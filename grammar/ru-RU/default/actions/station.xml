@@ -7,31 +7,24 @@
     <Phrases>
         <string>возвращаюсь</string>
         <string>возвращаемся</string>
-        <string>возвращается на станцию</string>
         <string>возвращаюсь на станцию</string>
         <string>возвращаемся на станцию</string>
         <string>возвращаюсь в участок</string>
         <string>возвращаемся в участок</string>
-        <string>возвращается в участок</string>
-		<string>возвращаюсь с подозреваемым</string>
+	<string>возвращаюсь с подозреваемым</string>
         <string>возвращаемся с подозреваемым</string>
-        <string>возвращается с подозреваемым</string>
         <string>возвращаюсь с подозреваемой</string>
         <string>возвращаемся с подозреваемой</string>
-        <string>возвращается с подозреваемой</string>
         <string>десять девятнадцать</string>
         <string>едем в тюрьму</string>
         <string>еду в тюрьму</string>
         <string>еду в кпз</string>
         <string>возвращаюсь в штаб квартиру</string>
         <string>возвращаемся в штаб квартиру</string>
-        <string>возвращается в штаб квартиру</string>
         <string>возвращаюсь в главный офис</string>
         <string>возвращаемся в главный офис</string>
-        <string>возвращается в главный офис</string>
         <string>возвращаюсь в штаб</string>
         <string>возвращаемся в штаб</string>
-        <string>возвращается в штаб</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.ReturnToStation</Target>
 </Action>
