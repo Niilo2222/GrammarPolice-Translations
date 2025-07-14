@@ -9,8 +9,8 @@
         <string>на перерыве</string>
         <string>обед</string>
         <string>на обеде</string>
-		<string>десять пять</string>
-		<string>пять</string>
+	<string>десять пять</string>
+	<string>пять</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.MealBreak</Target>
 </Action>
