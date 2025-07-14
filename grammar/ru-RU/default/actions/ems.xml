@@ -15,8 +15,8 @@
         <string>парамедик</string>
         <string>парамедика</string>
         <string>парамедиков</string>
-		<string>десять пятьдесят два</string>
-		<string>медицинская помощь</string>
+	<string>десять пятьдесят два</string>
+	<string>медицинская помощь</string>
         <string>медицинскую помощь</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.EMS</Target>
