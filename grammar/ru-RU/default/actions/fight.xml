@@ -7,7 +7,7 @@
     <Phrases>
         <string>драка в процессе</string>
         <string>драка</string>
-		<string>десять десять</string>
+	<string>десять десять</string>
         <string>десять десять в процессе</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Advisory.Fight</Target>
