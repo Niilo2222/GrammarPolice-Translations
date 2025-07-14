@@ -11,7 +11,7 @@
         <string>расследую сцену</string>
         <string>расследуем сцену</string>
         <string>расследует сцену</string>
-		<string>код шесть</string>
+	<string>код шесть</string>
         <string>шесть</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.Investigating</Target>
