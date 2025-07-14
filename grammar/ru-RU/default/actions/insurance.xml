@@ -12,7 +12,7 @@
         <string>страховая служба</string>
         <string>страховую службу</string>
 	<string>страховой агент</string>
-    <string>страхового агента</string>
+   	<string>страхового агента</string>
 	<string>страховое агентсво</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Insurance</Target>
