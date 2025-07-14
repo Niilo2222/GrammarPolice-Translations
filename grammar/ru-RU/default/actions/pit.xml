@@ -6,10 +6,7 @@
     </Commands>
     <Phrases>
         <string>пит</string>
-        <string>п и т</string>
-		<string>пит манёвр</string>
         <string>пит маневр</string>
-        <string>пит манёвор</string>
         <string>пит маневор</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Backup.Pit</Target>
