@@ -12,12 +12,12 @@
         <string>потерян визуальный контакт</string>
         <string>визуальный контакт с подозреваемым потерян</string>
         <string>потерян визуальный контакт с подозреваемым</string>
-		<string>подозреваемый потерян</string>
+	<string>подозреваемый потерян</string>
         <string>подозреваемый скрылся</string>
         <string>подозреваемый ушел</string>
         <string>подозреваемый сбежал</string>
-		<string>десять один</string>
-		<string>потерян</string>
+	<string>десять один</string>
+	<string>потерян</string>
     </Phrases>	
     <Target>GrammarPolice.Actions.Advisory.SuspectLost</Target>
 </Action>
