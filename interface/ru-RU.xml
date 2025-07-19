@@ -54,7 +54,7 @@
        <item name="Расследование" action="investigating" />
        <item name="Перерыв" action="mealbreak" />
        <item name="В Патруле" action="onpatrol" />
-       <item name="Вне службы" action="outofservice" />
+       <item name="Вне Зоны Действия" action="outofservice" />
        <item name="Возвращение в Участок" action="station" />
        <item name="На Месте" action="scene" />
        <item name="Трафик Cтоп" action="traffic" />
