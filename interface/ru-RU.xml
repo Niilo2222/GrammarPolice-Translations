@@ -22,11 +22,11 @@
     <menu name="Взаимодействие">
        <item name="Положительно" action="yes" />
        <item name="Отрицательно" action="no" />
-       <item name="Отмена Проверок" action="cancel_checks" />
+       <item name="Отменить Проверки" action="cancel_checks" />
        <item name="Ситуация в Норме" action="normal" />
     </menu>
     <menu name="Погоня">
-       <item name="Поддержка с Воздуха" action="air" />
+       <item name="Воздушная Поддержка" action="air" />
        <item name="Запрос PIT Манёвра" action="pit" />
        <item name="Перекрыть Дорогу" action="roadblock" />
        <item name="Полоса с Шипами" action="spikestrips" />
