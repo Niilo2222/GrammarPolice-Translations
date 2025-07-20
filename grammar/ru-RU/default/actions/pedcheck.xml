@@ -18,6 +18,8 @@
         <string>проверку личности</string>
         <string>проверка</string>
         <string>проверку</string>
+	<string>десять двадцать семь</string>
+        <string>двадцать семь</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Computer.Pedcheck</Target>
 </Action>
