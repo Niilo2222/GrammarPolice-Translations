@@ -2,7 +2,6 @@
 <Command>
     <Name>status</Name>
     <Phrases>
-        <string>собираюсь</string>
         <string>я</string>
         <string>я собираюсь</string>
         <string>укажите мне</string>
