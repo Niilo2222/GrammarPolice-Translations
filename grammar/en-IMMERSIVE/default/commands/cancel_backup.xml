@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>cancel_backup</Name>
+    <Action>cancel_backup</Action>
+    <Phrases>
+        <string>cancel backup</string>
+        <string>cancel all backup</string>
+        <string>cancel all inbounds</string>
+    </Phrases>
+</Command>
