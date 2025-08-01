@@ -9,7 +9,6 @@
         <string>проверку рации</string>
         <string>проверка связи</string>
         <string>проверку связи</string>
-        <string>проверка</string>
     </Phrases>
     <Target>GrammarPolice.Actions.Status.RadioCheck</Target>
 </Action>

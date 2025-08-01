@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Command>
+    <Name>cancel_backup</Name>
+    <Action>cancel_backup</Action>
+    <Phrases>
+        <string>отмените подмогу</string>
+        <string>отмените всю подмогу</string>
+        <string>отмените всю отправленную помощь</string>
+    </Phrases>
+</Command>
